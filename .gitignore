@@ -1,0 +1,15 @@
+# Ignore all content inside the .cache directory
+.cache/*
+!.cache/.gitkeep
+
+# Ignore all content inside the build directory
+build/*
+!build/.gitkeep
+
+# Ignore all content inside the build/.cache directory
+build/.cache/*
+!build/.cache/.gitkeep
+
+# Ignore all content inside the build/CMakeFiles directory
+build/CMakeFiles/*
+!build/CMakeFiles/.gitkeep

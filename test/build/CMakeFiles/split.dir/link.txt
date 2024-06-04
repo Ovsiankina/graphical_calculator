@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -rdynamic CMakeFiles/split.dir/src/main.cpp.o CMakeFiles/split.dir/src/Frame.cpp.o CMakeFiles/split.dir/src/RightPanel.cpp.o CMakeFiles/split.dir/src/LeftPanel.cpp.o -o split   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 

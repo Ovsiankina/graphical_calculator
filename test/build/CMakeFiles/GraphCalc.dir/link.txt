@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -rdynamic CMakeFiles/GraphCalc.dir/src/main.cpp.o CMakeFiles/GraphCalc.dir/src/communicate.cpp.o CMakeFiles/GraphCalc.dir/src/panels.cpp.o -o GraphCalc   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_core-3.2 -lwx_baseu-3.2 

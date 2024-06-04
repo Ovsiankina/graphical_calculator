@@ -1,0 +1,3 @@
+/mnt/c/Users/MoDa/workstation/C_CPP_RUST_PROJECT/cpp/wx_tutorial/wx_split/build/CMakeFiles/split.dir
+/mnt/c/Users/MoDa/workstation/C_CPP_RUST_PROJECT/cpp/wx_tutorial/wx_split/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/MoDa/workstation/C_CPP_RUST_PROJECT/cpp/wx_tutorial/wx_split/build/CMakeFiles/rebuild_cache.dir
