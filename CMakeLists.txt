@@ -2,7 +2,7 @@
 #cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 
 cmake_minimum_required(VERSION 3.0)
-project(split)
+project(graphical_calculator)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 11)
